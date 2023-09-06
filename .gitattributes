@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 text=auto
-String a = "Erion's stinkt nach kacke";
+String a = "Erion's stinkt nach kaacke";
 String b ="Erion lalala";
